@@ -6,10 +6,10 @@ Beauty App, where users purchase skincare, makeup, and nail care.
 
 ### Usage
 
-Clone the repo and then you can run the js/beauty.js file:
+Clone the repo and then you can run the javascripts/beauty.js file:
 
 ```
-$ node js/beauty.js
+$ node javascripts/beauty.js
 ```
 
 ### Contributing
