@@ -6,10 +6,10 @@ Beauty App, where users purchase skincare, makeup, and nail care.
 
 ### Usage
 
-Clone the repo and then you can run the javascripts/beauty.js file:
+Clone the repo and then you can run the jasmine-standalone-2.8.0/src/BeautyApp.js file:
 
 ```
-$ node javascripts/beauty.js
+$ node jasmine-standalone-2.8.0/src/BeautyApp.js
 ```
 
 ### Contributing
