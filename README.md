@@ -2,15 +2,22 @@
 
 ### Introduction
 
-Beauty App, where users purchase skincare, makeup, and nail care.
+Beauty App is an app, where users purchase skincare, makeup, and nail care.
 
 ### Usage
 
-Clone the repo and then you can run the jasmine-standalone-2.8.0/src/BeautyApp.js file:
+In the jasmine folder you will find:
+- src folder
+- specs folder
+
+The src folder contains a javascript file called BeautyApp.js. You can clone the repo and run this in your terminal by navigating to the src directory:
 
 ```
-$ node jasmine-standalone-2.8.0/src/BeautyApp.js
+$ node BeautyApp.js
 ```
+
+The spec folder contains a spec file called BeautyAppSpec.js. The purpose is to test the methods in BeautyApp.js. Run SpecRunner.html in your browser to execute the tests.
+
 
 ### Contributing
 
